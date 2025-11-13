@@ -39,12 +39,10 @@ Developed by: RegisterNumber:*/
 
 
 **RTL realization**
+<img width="784" height="633" alt="Screenshot 2025-11-12 213642" src="https://github.com/user-attachments/assets/d7464fab-1eaa-4d64-9e82-93f81bf496ba" />
 
-**Output:**
-
-**RTL**
-
-**Timing Diagram**
+**Output-Timing Diagram:**
+<img width="1920" height="1080" alt="Screenshot (24)" src="https://github.com/user-attachments/assets/f3cb16ed-2bdb-4d12-bf45-1367410c7d43" />
 
 **Result:**
 
